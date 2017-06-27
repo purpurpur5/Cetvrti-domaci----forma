@@ -1,0 +1,41 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+}
+
+h2{
+	text-align: center;
+	opacity: 0.7;
+}
+
+form{
+
+	display:block;
+	background-color:#CBD4E5;
+	height: auto;
+	width: 50%;
+	margin: auto;
+	border: 5px solid #4C4AA2;
+	padding: 20px;
+
+}
+input{
+	display: block;
+	width: 75%;
+	margin: auto;
+	margin-top: 20px;
+	padding: 20px;
+}
+
+div{
+	display: block;
+}
+
+input[type=radio]{
+	display: inline;
+	width: 25%;
+}
+
+input[type=submit]{
+	width: 25%;
+}
